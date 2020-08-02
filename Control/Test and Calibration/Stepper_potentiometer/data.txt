@@ -1,0 +1,669 @@
+0
+value of potentiometer : 53
+1
+value of potentiometer : 53
+2
+value of potentiometer : 52
+3
+value of potentiometer : 55
+4
+value of potentiometer : 57
+5
+value of potentiometer : 61
+6
+value of potentiometer : 64
+7
+value of potentiometer : 68
+8
+value of potentiometer : 73
+9
+value of potentiometer : 74
+10
+value of potentiometer : 77
+11
+value of potentiometer : 80
+12
+value of potentiometer : 84
+13
+value of potentiometer : 89
+14
+value of potentiometer : 91
+15
+value of potentiometer : 95
+16
+value of potentiometer : 97
+17
+value of potentiometer : 100
+18
+value of potentiometer : 103
+19
+value of potentiometer : 110
+20
+value of potentiometer : 113
+21
+value of potentiometer : 114
+22
+value of potentiometer : 118
+23
+value of potentiometer : 120
+24
+value of potentiometer : 125
+25
+value of potentiometer : 124
+26
+value of potentiometer : 128
+27
+value of potentiometer : 130
+28
+value of potentiometer : 132
+29
+value of potentiometer : 134
+30
+value of potentiometer : 141
+31
+value of potentiometer : 142
+32
+value of potentiometer : 144
+33
+value of potentiometer : 147
+34
+value of potentiometer : 151
+35
+value of potentiometer : 153
+36
+value of potentiometer : 157
+37
+value of potentiometer : 160
+38
+value of potentiometer : 165
+39
+value of potentiometer : 167
+40
+value of potentiometer : 172
+41
+value of potentiometer : 183
+42
+value of potentiometer : 180
+43
+value of potentiometer : 184
+44
+value of potentiometer : 189
+45
+value of potentiometer : 191
+46
+value of potentiometer : 197
+47
+value of potentiometer : 202
+48
+value of potentiometer : 207
+49
+value of potentiometer : 209
+50
+value of potentiometer : 215
+51
+value of potentiometer : 218
+52
+value of potentiometer : 223
+53
+value of potentiometer : 225
+54
+value of potentiometer : 232
+55
+value of potentiometer : 236
+56
+value of potentiometer : 241
+57
+value of potentiometer : 244
+58
+value of potentiometer : 250
+59
+value of potentiometer : 255
+60
+value of potentiometer : 263
+61
+value of potentiometer : 267
+62
+value of potentiometer : 275
+63
+value of potentiometer : 278
+64
+value of potentiometer : 280
+65
+value of potentiometer : 286
+66
+value of potentiometer : 289
+67
+value of potentiometer : 293
+68
+value of potentiometer : 304
+69
+value of potentiometer : 299
+70
+value of potentiometer : 303
+71
+value of potentiometer : 306
+72
+value of potentiometer : 308
+73
+value of potentiometer : 309
+74
+value of potentiometer : 312
+75
+value of potentiometer : 317
+76
+value of potentiometer : 318
+77
+value of potentiometer : 321
+78
+value of potentiometer : 326
+79
+value of potentiometer : 328
+80
+value of potentiometer : 326
+81
+value of potentiometer : 335
+82
+value of potentiometer : 338
+83
+value of potentiometer : 343
+84
+value of potentiometer : 346
+85
+value of potentiometer : 350
+86
+value of potentiometer : 355
+87
+value of potentiometer : 357
+88
+value of potentiometer : 364
+89
+value of potentiometer : 362
+90
+value of potentiometer : 367
+91
+value of potentiometer : 370
+92
+value of potentiometer : 375
+93
+value of potentiometer : 373
+94
+value of potentiometer : 380
+95
+value of potentiometer : 385
+96
+value of potentiometer : 388
+97
+value of potentiometer : 389
+98
+value of potentiometer : 393
+99
+value of potentiometer : 395
+100
+value of potentiometer : 399
+101
+value of potentiometer : 401
+102
+value of potentiometer : 407
+103
+value of potentiometer : 407
+104
+value of potentiometer : 410
+105
+value of potentiometer : 414
+106
+value of potentiometer : 421
+107
+value of potentiometer : 424
+108
+value of potentiometer : 428
+109
+value of potentiometer : 431
+110
+value of potentiometer : 434
+111
+value of potentiometer : 439
+112
+value of potentiometer : 441
+113
+value of potentiometer : 444
+114
+value of potentiometer : 450
+115
+value of potentiometer : 451
+116
+value of potentiometer : 452
+117
+value of potentiometer : 457
+118
+value of potentiometer : 461
+119
+value of potentiometer : 464
+120
+value of potentiometer : 466
+121
+value of potentiometer : 471
+122
+value of potentiometer : 476
+123
+value of potentiometer : 480
+124
+value of potentiometer : 486
+125
+value of potentiometer : 492
+126
+value of potentiometer : 497
+127
+value of potentiometer : 499
+128
+value of potentiometer : 499
+129
+value of potentiometer : 505
+130
+value of potentiometer : 507
+131
+value of potentiometer : 511
+132
+value of potentiometer : 514
+133
+value of potentiometer : 519
+134
+value of potentiometer : 520
+135
+value of potentiometer : 522
+136
+value of potentiometer : 523
+137
+value of potentiometer : 528
+138
+value of potentiometer : 532
+139
+value of potentiometer : 535
+140
+value of potentiometer : 537
+141
+value of potentiometer : 543
+142
+value of potentiometer : 546
+143
+value of potentiometer : 547
+144
+value of potentiometer : 548
+145
+value of potentiometer : 553
+146
+value of potentiometer : 555
+147
+value of potentiometer : 557
+148
+value of potentiometer : 560
+149
+value of potentiometer : 562
+150
+value of potentiometer : 566
+151
+value of potentiometer : 568
+152
+value of potentiometer : 570
+153
+value of potentiometer : 575
+154
+value of potentiometer : 576
+155
+value of potentiometer : 579
+156
+value of potentiometer : 582
+157
+value of potentiometer : 581
+158
+value of potentiometer : 583
+159
+value of potentiometer : 583
+160
+value of potentiometer : 584
+161
+value of potentiometer : 587
+162
+value of potentiometer : 590
+163
+value of potentiometer : 592
+164
+value of potentiometer : 595
+165
+value of potentiometer : 598
+166
+value of potentiometer : 604
+167
+value of potentiometer : 605
+168
+value of potentiometer : 608
+169
+value of potentiometer : 613
+170
+value of potentiometer : 616
+171
+value of potentiometer : 620
+172
+value of potentiometer : 623
+173
+value of potentiometer : 626
+174
+value of potentiometer : 631
+175
+value of potentiometer : 633
+176
+value of potentiometer : 636
+177
+value of potentiometer : 640
+178
+value of potentiometer : 644
+179
+value of potentiometer : 646
+180
+value of potentiometer : 649
+181
+value of potentiometer : 653
+182
+value of potentiometer : 655
+183
+value of potentiometer : 656
+184
+value of potentiometer : 659
+185
+value of potentiometer : 665
+186
+value of potentiometer : 667
+187
+value of potentiometer : 672
+188
+value of potentiometer : 677
+189
+value of potentiometer : 680
+190
+value of potentiometer : 682
+191
+value of potentiometer : 685
+192
+value of potentiometer : 686
+193
+value of potentiometer : 691
+194
+value of potentiometer : 694
+195
+value of potentiometer : 697
+196
+value of potentiometer : 700
+197
+value of potentiometer : 705
+198
+value of potentiometer : 707
+199
+value of potentiometer : 711
+200
+value of potentiometer : 714
+201
+value of potentiometer : 718
+202
+value of potentiometer : 721
+203
+value of potentiometer : 723
+204
+value of potentiometer : 727
+205
+value of potentiometer : 732
+206
+value of potentiometer : 728
+207
+value of potentiometer : 739
+208
+value of potentiometer : 743
+209
+value of potentiometer : 743
+210
+value of potentiometer : 747
+211
+value of potentiometer : 749
+212
+value of potentiometer : 753
+213
+value of potentiometer : 754
+214
+value of potentiometer : 759
+215
+value of potentiometer : 764
+216
+value of potentiometer : 768
+217
+value of potentiometer : 769
+218
+value of potentiometer : 776
+219
+value of potentiometer : 781
+220
+value of potentiometer : 783
+221
+value of potentiometer : 787
+222
+value of potentiometer : 792
+223
+value of potentiometer : 794
+224
+value of potentiometer : 798
+225
+value of potentiometer : 800
+226
+value of potentiometer : 805
+227
+value of potentiometer : 809
+228
+value of potentiometer : 812
+229
+value of potentiometer : 815
+230
+value of potentiometer : 821
+231
+value of potentiometer : 825
+232
+value of potentiometer : 827
+233
+value of potentiometer : 829
+234
+value of potentiometer : 835
+235
+value of potentiometer : 838
+236
+value of potentiometer : 840
+237
+value of potentiometer : 844
+238
+value of potentiometer : 853
+239
+value of potentiometer : 854
+240
+value of potentiometer : 857
+241
+value of potentiometer : 863
+242
+value of potentiometer : 869
+243
+value of potentiometer : 873
+244
+value of potentiometer : 872
+245
+value of potentiometer : 875
+246
+value of potentiometer : 881
+247
+value of potentiometer : 883
+248
+value of potentiometer : 887
+249
+value of potentiometer : 889
+250
+value of potentiometer : 892
+251
+value of potentiometer : 898
+252
+value of potentiometer : 898
+253
+value of potentiometer : 902
+254
+value of potentiometer : 908
+255
+value of potentiometer : 909
+256
+value of potentiometer : 913
+257
+value of potentiometer : 918
+258
+value of potentiometer : 922
+259
+value of potentiometer : 926
+260
+value of potentiometer : 927
+261
+value of potentiometer : 932
+262
+value of potentiometer : 939
+263
+value of potentiometer : 943
+264
+value of potentiometer : 945
+265
+value of potentiometer : 948
+266
+value of potentiometer : 954
+267
+value of potentiometer : 957
+268
+value of potentiometer : 960
+269
+value of potentiometer : 964
+270
+value of potentiometer : 967
+271
+value of potentiometer : 971
+272
+value of potentiometer : 974
+273
+value of potentiometer : 975
+274
+value of potentiometer : 983
+275
+value of potentiometer : 986
+276
+value of potentiometer : 987
+277
+value of potentiometer : 990
+278
+value of potentiometer : 996
+279
+value of potentiometer : 997
+280
+value of potentiometer : 998
+281
+value of potentiometer : 1005
+282
+value of potentiometer : 1008
+283
+value of potentiometer : 1011
+284
+value of potentiometer : 1015
+285
+value of potentiometer : 1017
+286
+value of potentiometer : 1023
+287
+value of potentiometer : 1023
+288
+value of potentiometer : 1023
+289
+value of potentiometer : 1023
+290
+value of potentiometer : 1023
+291
+value of potentiometer : 1022
+292
+value of potentiometer : 1023
+293
+value of potentiometer : 1023
+294
+value of potentiometer : 1022
+295
+value of potentiometer : 1023
+296
+value of potentiometer : 1023
+297
+value of potentiometer : 1023
+298
+value of potentiometer : 1023
+299
+value of potentiometer : 1023
+300
+value of potentiometer : 1023
+301
+value of potentiometer : 1023
+302
+value of potentiometer : 1023
+303
+value of potentiometer : 1023
+304
+value of potentiometer : 1023
+305
+value of potentiometer : 1023
+306
+value of potentiometer : 1023
+307
+value of potentiometer : 1023
+308
+value of potentiometer : 1023
+309
+value of potentiometer : 1023
+310
+value of potentiometer : 1023
+311
+value of potentiometer : 1023
+312
+value of potentiometer : 1023
+313
+value of potentiometer : 1023
+314
+value of potentiometer : 1023
+315
+value of potentiometer : 1023
+316
+value of potentiometer : 1023
+317
+value of potentiometer : 1023
+318
+value of potentiometer : 1023
+319
+value of potentiometer : 1023
+320
+value of potentiometer : 1023
+321
+value of potentiometer : 1023
+322
+value of potentiometer : 1023
+323
+value of potentiometer : 1023
+324
+value of potentiometer : 1023
+325
+value of potentiometer : 1023
+326
+value of potentiometer : 1023
+327
+value of potentiometer : 1023
+328
+value of potentiometer : 1023
+329
+value of potentiometer : 1023
+330
+value of potentiometer : 1023
+331
+value of potentiometer : 1023
+332
+value of potentiometer : 1023
+333
+value of potentiometer : 1023
+

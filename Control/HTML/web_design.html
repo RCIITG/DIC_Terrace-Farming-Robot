@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DIC Control</title>
+<style>
+    input[type=submit] {
+      background-color:  #e7e7e7;
+      padding: 10px 2px;
+      font-size: 15px;
+      border: 2px solid #555555;
+      border-radius: 4px;
+      cursor: pointer;
+      width:100px;
+      text-align: center;
+    }
+    input[value=Stop] {
+     color: #f44336;
+     font-size: 20px;
+    }
+    input[value=Start] {
+     color:  #4CAF50;
+     font-size: 20px;
+    }
+    
+
+     
+     .container{
+        padding-left:10px;
+        padding-top: 10px;
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        grid-column-gap: 18vh;
+     }
+    .container2{
+        padding-left:15px;
+        display: grid;
+        grid-template-columns: 1fr 1fr 1fr;
+        grid-row-gap: 10px;
+        margin-top: 30vh;
+     }
+    .container3{
+        padding-left:15px;
+        padding-top:15px;
+        display: grid;
+        grid-template-columns: 1fr 1fr 1fr;
+        grid-row-gap: 10px;
+        
+     }
+
+    
+</style>
+</head>
+<body>
+<div class = "container">
+
+
+<form class="form_left" action="/start">
+  <input type="submit" value="Start">
+</form>
+
+<form class="form_right" action="/stop">
+  <input type="submit" value="Stop">
+</form>
+
+
+
+</div>
+
+
+<div class = "container2">
+
+
+<form  action="/pump">
+  <input type="submit" value="Pump">
+</form>
+
+<form  action="/side">
+  <input type="submit" value="Side">
+</form>
+<form action="/center">
+  <input type="submit" value="Center">
+</form>
+</div>
+
+</div>
+
+<div class = "container3">
+
+
+<form  action="/seeding">
+  <input type="submit" value="Seeding">
+</form>
+
+<form  action="/ploghing">
+  <input type="submit" value="Ploughing">
+</form>
+<form  action="/harvesting">
+  <input type="submit" value="Harvesting">
+</form>
+</div>
+
+
+
+
+
+</body>
+
+
+
+</html>
